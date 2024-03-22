@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satyam Jha</h1>
-<h3 align="center"><> <br><b>One line at a time</b><br> Code weaver spinning digital dreams. <br>Passionate about pixels, pixels, and more pixels. 🚀💫 <br></></h3>
+<>
+<h3 align="center">
+  <br><b>One line at a time</b><br> Code weaver spinning digital dreams. <br>Passionate about pixels, pixels, and more pixels. 🚀💫 <br>
 
+</h3>
+</>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammjha&label=Profile%20views&color=0e75b6&style=flat" alt="satyammjha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyammjha" alt="satyammjha" /></a> </p>
