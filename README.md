@@ -1,5 +1,4 @@
-<h1 align="center"> ` "<> Hi 👋, I'm Satyam Jha </> </h1>
-<>" `
+<h1 align="center"> `Hi 👋, I'm Satyam Jha </> </h1>
 <h3 align="center">
   <br><b>One line at a time</b><br> Code weaver spinning digital dreams. <br>Passionate about pixels, pixels, and more pixels. 🚀💫 <br>
 
